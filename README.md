@@ -10,7 +10,7 @@ npm test
 
 ## 컴포넌트 별 테스트 실행 방법
 
-npm run test -- --include src/app/decryption
+npm run test -- --include src/app/<component>
 
 ## 클라이언트 화면 실행 방법
 
